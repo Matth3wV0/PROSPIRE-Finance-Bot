@@ -6,7 +6,7 @@
 
 Access the PROSPIRE Finance Bot [here](https://t.me/prospire_financial_bot), and the following interface will appear.
 
-![Screenshot 2024-08-15 102019](https://github.com/user-attachments/assets/7ecdf19d-010e-4477-b1ec-e221d664c290)
+![Screenshot 2024-08-15 102019](https://github.com/user-attachments/assets/5267bba2-8988-4982-821d-7ad02dd9ef80)
 
 ### Step 2: Sending a Message
 
